@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
 ![git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git)
 
-### Follow me
+### Contacts me
 
 [![instagram](https://img.shields.io/badge/-insragram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/erlan.abdullaevv/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-090909?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=996778148976&text&app_absent=0)
